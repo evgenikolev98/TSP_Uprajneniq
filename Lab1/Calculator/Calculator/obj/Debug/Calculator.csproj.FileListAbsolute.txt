@@ -1,0 +1,10 @@
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache

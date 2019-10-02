@@ -1,0 +1,10 @@
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\bin\Debug\ODD_EVEN.exe.config
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\bin\Debug\ODD_EVEN.exe
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\bin\Debug\ODD_EVEN.pdb
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.csprojAssemblyReference.cache
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.Form1.resources
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.Properties.Resources.resources
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.csproj.GenerateResource.cache
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.csproj.CoreCompileInputs.cache
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.exe
+D:\University Stuffs\Semester 5\TSP\Uprajneniq\ODD_EVEN\ODD_EVEN\obj\Debug\ODD_EVEN.pdb
