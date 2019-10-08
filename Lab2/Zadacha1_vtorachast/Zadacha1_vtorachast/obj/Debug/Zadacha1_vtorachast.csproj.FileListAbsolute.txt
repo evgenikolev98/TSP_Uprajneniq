@@ -1,0 +1,10 @@
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\bin\Debug\Zadacha1_vtorachast.exe.config
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\bin\Debug\Zadacha1_vtorachast.exe
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\bin\Debug\Zadacha1_vtorachast.pdb
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.csprojAssemblyReference.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.Form1.resources
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.Properties.Resources.resources
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.csproj.GenerateResource.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.csproj.CoreCompileInputs.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.exe
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha1_vtorachast\Zadacha1_vtorachast\obj\Debug\Zadacha1_vtorachast.pdb
