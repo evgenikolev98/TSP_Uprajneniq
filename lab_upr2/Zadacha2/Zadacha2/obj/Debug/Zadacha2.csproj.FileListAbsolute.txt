@@ -1,0 +1,10 @@
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\bin\Debug\Zadacha2.exe.config
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\bin\Debug\Zadacha2.exe
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\bin\Debug\Zadacha2.pdb
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.csprojAssemblyReference.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.Form1.resources
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.Properties.Resources.resources
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.csproj.GenerateResource.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.csproj.CoreCompileInputs.cache
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.exe
+D:\University Stuffs\Semester 5\TSP\Lab2\Zadacha2\Zadacha2\obj\Debug\Zadacha2.pdb
