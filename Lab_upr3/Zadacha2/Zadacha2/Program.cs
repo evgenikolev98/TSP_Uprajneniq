@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace zad2
+namespace Zadacha2
 {
     static class Program
     {

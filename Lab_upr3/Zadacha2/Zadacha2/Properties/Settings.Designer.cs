@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace zad2.Properties
+namespace Zadacha2.Properties
 {
 
 
